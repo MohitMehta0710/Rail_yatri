@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask,jsonify
 from station_status import station_data
 from bike_status import bike_data
 
